@@ -84421,6 +84421,14 @@
         "social-token",
         "utility-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5H9Kmyewa2caQMpwsfQYMgt6UEzobSBwJsFUE8ioZXjp",
+      "symbol": "JNGL",
+      "name": "JungleToken",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Raph990/Jungle/main/Token.jpeg"
     }
   ],
   "version": {
