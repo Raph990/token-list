@@ -84223,6 +84223,17 @@
     },
     {
       "chainId": 101,
+      "address": "5H9Kmyewa2caQMpwsfQYMgt6UEzobSBwJsFUE8ioZXjp",
+      "symbol": "JNGL",
+      "name": "Jungle Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Raph990/Jungle/main/Token.jpeg",
+      "tags": [
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
       "address": "FAViRHfwREAcuM476rJUfNvdB3EQ7mG519Lfnd5Xwabb",
       "symbol": "FAV",
       "name": "Faviont Token",
